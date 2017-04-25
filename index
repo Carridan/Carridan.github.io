@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html lang="en-us">
+    
+<head>
+
+ <title>Dat Boi Quotes</title>
+    
+</head>  
+
+<body style="background-color:red;"> 
+
+<h1 style="text-align:center;"> Dan's Website </h1>
+    
+<h2> Quote about Character</h2>
+    
+<h3 style="color:yellow;"> "Knowledge will give you power, but character respect." - Bruce Lee </h3>
+
+ <h2> Attributes of Character</h2> 
+    
+<ul>
+    
+    <li> Trustworthy </li> 
+    <li> Loyal </li>
+    <li> Helpful </li>
+    <li> Friendly </li>
+    <li> Curteous </li>
+    <li> Kindness </li>
+    <li> Obiedient </li>
+    <li> <a href=file:///C:/Users/carridan002/Desktop/Reverent.html> Cheerful </a> </li>
+    <li> Thrifty </li>
+    <li> Brave </li>
+    
+    </ul>
+    
+</body>
+
+</html>
